@@ -22,3 +22,6 @@
 
 ## Base Code
 Code: <https://github.com/hvfxprod/Autoprj_setup>
+
+## AWS Renderfarm 
+AWS Cloud Rendering: <https://docs.aws.amazon.com/rfdk/latest/guide/what-is-rfdk.html>
