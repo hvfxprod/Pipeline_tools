@@ -10,9 +10,9 @@
 *Photoshop: <https://github.com/loonghao/photoshop-python-api><br>
 *Blender: <https://docs.blender.org/api/current/info_quickstart.html><br>
 *Cinema4D: <https://developers.maxon.net/?p=4470><br>
-  *in case of C4D, Python is not fully supported rather than C++<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*in case of C4D, Python is not fully supported rather than C++
 *Resolve: <https://www.blackmagicdesign.com/developer/><br>
-  * Have to Sign UP Blackmagic Design Developer Program<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Have to Sign UP Blackmagic Design Developer Program
 *Baselight(Filmlight): <https://www.filmlight.ltd.uk/pdf/datasheets/FL-BL-DS-0902-RenderAndAPI.pdf><br>
 
 ## Pipeline
