@@ -25,3 +25,10 @@ Code: <https://github.com/hvfxprod/Autoprj_setup>
 
 ## AWS Renderfarm 
 AWS Cloud Rendering: <https://docs.aws.amazon.com/rfdk/latest/guide/what-is-rfdk.html>
+
+##프로그램 개요
+1. File input
+2. Make Thumbnail
+3. Export XML, EDL
+4. Select program
+5. generate Blank prj file
